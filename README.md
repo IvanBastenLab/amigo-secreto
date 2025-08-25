@@ -22,6 +22,8 @@ Se trata de una pagina donde puedes ingresar los nombres de tus amigos para post
 :heavy_check_mark: `Funcionalidad 3:` Actualizar dinámicamente una lista de amigos en el HTML. Vamos a desmenuzarla paso a paso para que veas cómo se conecta con el DOM.
 
 :heavy_check_mark: `Funcionalidad 4:` Hace un sorteo aleatorio entre los nombres almacenados.
+
+:heavy_check_mark: `Funcionalidad 5:` Simula una animación de sorteo mostrando nombres aleatorios durante 2 segundos, y al final revela el nombre elegido con un mensaje.
 </p>
 
 <h4 align="justify">Herraminetas </h4>
