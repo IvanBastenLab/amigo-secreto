@@ -40,5 +40,26 @@ function sortearAmigo (){
 
 mostrarLista();
 
+function sortearAmigo() {
+  const resultado = document.getElementById("amigoSorteado");
+  let contador = 0;
+  const duracion = 2000; // duración total de la animación en ms
+  const intervalo = 100; // velocidad de cambio de nombre
+
+  const animacion = setInterval(() => {
+    const nombreAleatorio = amigos[Math.floor(Math.random() * amigos.length)];
+    resultado.textContent = `🎲 Sorteando: ${nombreAleatorio}`;
+    contador += intervalo;
+
+    if (contador >= duracion) {
+      clearInterval(animacion);
+      const nombreFinal = amigos[Math.floor(Math.random() * amigos.length)];
+      resultado.textContent = `🎉 El amigo elegido es: ${nombreFinal}`;
+    }
+  }, intervalo);
+}
+
+
+
 
 
