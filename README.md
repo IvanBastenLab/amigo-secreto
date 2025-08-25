@@ -1,7 +1,7 @@
 <h1 align="center"> Amigo Secreto </h1>
 
 <p align="center">
-<img width="450" height="277" alt="amigo-secreto" src="https://github.com/user-attachments/assets/def0ce44-ac5c-4785-8638-d9089c89e016" />
+<img width="400" height="200" alt="amigo-secreto" src="https://github.com/user-attachments/assets/def0ce44-ac5c-4785-8638-d9089c89e016" />
 </p>
 
 <h2 align="justify">
@@ -11,7 +11,9 @@
 Se trata de una pagina donde puedes ingresar los nombres de tus amigos para posteriormente realizar un sorteo y poder seleccionar un nombre al azar
 </p> 
 
-<h3 align="justify">
+<h3 align="justify">Funcionadlidades</h3>
+
+<p align="justify">
   
 :heavy_check_mark: `Funcionalidad 1:` Ese comando es una declaración en JavaScript que crea una variable llamada  y le asigna un arreglo vacío.
 
@@ -20,4 +22,12 @@ Se trata de una pagina donde puedes ingresar los nombres de tus amigos para post
 :heavy_check_mark: `Funcionalidad 3:` Actualizar dinámicamente una lista de amigos en el HTML. Vamos a desmenuzarla paso a paso para que veas cómo se conecta con el DOM.
 
 :heavy_check_mark: `Funcionalidad 4:` Hace un sorteo aleatorio entre los nombres almacenados.
+</p>
+
+<h4 align="justify">Herraminetas </h4>
+
+<p align="justify"> 
+
+<img width="200" height="100" alt="Visual-Studio-Code-logo" src="https://github.com/user-attachments/assets/b1eb1cf4-1ef1-4bbf-a827-ba85a1bcc201" />
+</p>
 
